@@ -1,6 +1,10 @@
 #Array
+<<<<<<< HEAD
 001 [Two Sum](Array/1TwoSum.py]      https://leetcode.com/problems/two-sum/
 001 [Two Sum](Array/1TwoSum.py)              https://leetcode.com/problems/reverse-string/
+=======
+001 [Two Sum](Array/1TwoSum.py]          https://leetcode.com/problems/two-sum/
+>>>>>>> 4774266ca1bcadba31b95ff9147bf07c6b072b80
 
 
 #String
