@@ -1,5 +1,6 @@
 #Array
 001 [Two Sum](Array/1TwoSum.py]      https://leetcode.com/problems/two-sum/
+001 [Two Sum](Array/1TwoSum.py)              https://leetcode.com/problems/reverse-string/
 
 
 #String
