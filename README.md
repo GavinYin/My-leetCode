@@ -3,7 +3,7 @@
 026 [Remove Duplicates from Sorted Array](Array/26RemoveDuplicatesfromSortedArray.py)-------https://leetcode.com/problems/remove-duplicates-from-sorted-array/<br>
 066 [Plus One](Array/66PlusOne.py)------https://leetcode.com/problems/plus-one/<br>
 027 [Remove Element](Array/27Remove Element.py)-------https://leetcode.com/problems/remove-element/<br>
-189 [Rotate Array](Array/189RotateArray.py)------https://leetcode.com/problems/rotate-array/
+189 [Rotate Array](Array/189RotateArray.py)------https://leetcode.com/problems/rotate-array/<br>
 217 [Contains Duplicate](Array/217ContainsDuplicate.py)------https://leetcode.com/problems/contains-duplicate/<br>
 219 [Contains Duplicate II](Array/219ContainsDuplicateII.py)------https://leetcode.com/problems/contains-duplicate-ii/<br>
 
